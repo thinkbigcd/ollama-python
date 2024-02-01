@@ -6,3 +6,9 @@ Added: 2024-02-01
 def helper_function():
     """helpful utility"""
     pass
+
+
+def util_1():
+    """utility function 1"""
+    # added 2024-02-01
+    return 1
