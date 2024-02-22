@@ -48,3 +48,9 @@ def util_7():
     """utility function 7"""
     # added 2024-02-22
     return 7
+
+
+def util_8():
+    """utility function 8"""
+    # added 2024-02-22
+    return 8
